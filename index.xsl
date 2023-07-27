@@ -91,11 +91,11 @@
 
             <br/>
 
-            <b>Name:</b>&#8201;<i><xsl:value-of select="NAME"/></i><br/>
+            <b>Name:</b>&#8201; &#8201;<i><xsl:value-of select="NAME"/></i><br/>
             
-            <b>Gender:</b>&#8201;<xsl:value-of select="GENDER"/><br/>
+            <b>Gender:</b>&#8201; &#8201;<xsl:value-of select="GENDER"/><br/>
 
-            <b>Mansion:</b>&#8201;<xsl:value-of select="PROFESSION"/><br/>
+            <b>Mansion:</b>&#8201; &#8201;<xsl:value-of select="PROFESSION"/><br/>
             
             <br/>
             
