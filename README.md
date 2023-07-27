@@ -15,11 +15,10 @@ Indeed, there are a couple of things you need customize by yourself:
 <li>find out all the foto.jpg instances and replace each with the artisan foto you require.</li>
 <li>find out "http://5md.io/l/wochapp" and replace it with your artisan contact.</li>
 <ol>   
-</ul>  
-   
-Please enjoy and let us know about any feedback to <a href="info@shifu.page">info@shifu.page</a>  
+</ul>    
   
 ## Screenshots
 	   
  ![Shifu](/res/screenshot1.png)  
 
+Feedback to <a href="info@shifu.page">info@shifu.page</a>
