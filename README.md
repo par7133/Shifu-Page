@@ -21,4 +21,4 @@ Indeed, there are a couple of things you need customize by yourself:
 	   
  ![Shifu](/res/screenshot1.png)  
 
-Feedback to <a href="info@shifu.page">info@shifu.page</a>
+Feedback to <a href="posta@elettronica.lol">posta@elettronica.lol</a>
